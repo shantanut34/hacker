@@ -5,6 +5,7 @@ import sklearn
 
 from pandas import Series
 import pickle
+#this is not important
 
 filename = 'finalmodeldata.sav'
 file2 = 'tfid.sav'
