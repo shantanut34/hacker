@@ -23,7 +23,7 @@ canv.grid(row=0, column=0)
 img = PhotoImage(file="1.png")
 canv.create_image(20,20, anchor=NW, image=img)
 '''
-
+#this is not important
 
 def clicked():
     new = st.get(1.0, END)
