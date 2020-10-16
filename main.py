@@ -15,7 +15,7 @@ tfidf_vectorizer = pickle.load(open(file2, 'rb'))
 mainwin = Tk()
 mainwin.state('zoomed')
 mainwin.title("Fake News Detector")
-
+#this is imp
 '''
 canv = Canvas(mainwin, width=500, height=500, bg='white')
 canv.grid(row=0, column=0)
